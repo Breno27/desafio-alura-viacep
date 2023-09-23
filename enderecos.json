@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "06816-000",
+    "logradouro": "Rua Marcelino Pinto Teixeira",
+    "complemento": "",
+    "bairro": "Gramado",
+    "localidade": "Embu das Artes",
+    "uf": "SP"
+  }
+]
